@@ -1,0 +1,10 @@
+node_modules/
+*/cypress/videos
+*/cypress/screenshots
+cypress/videos
+cypress/screenshots
+cypress/results
+mochawesome-report/
+mochawesome.json
+cypress/logs
+package-lock.json
